@@ -1,6 +1,3 @@
-```
-set search_path to luxteaching;
-```
 # Basic Queries
 1. All customers with their full name and city
 ```
